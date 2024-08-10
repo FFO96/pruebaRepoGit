@@ -1,0 +1,14 @@
+{
+  "name": "pruebarepogit",
+  "version": "1.0.0",
+  "description": "This repo is an example on how to use git with GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
